@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Seen-hash
-- 👀 I’m interested in learning, a lot
-- 🌱 I’m currently majoring in Computer Science
-
-<!---
-Seen-hash/Seen-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Seen-hash, a CS major with big binary aspirations.  
+Check my wall from time to time for cool new gimmicks and genuinely useful stuff.
